@@ -1,4 +1,6 @@
+# 分析
 
+##分析(2022/11/09)
 ![分析_20221109](https://user-images.githubusercontent.com/76472326/207598623-59f2e422-d6ae-4ddc-a798-cd0e105944fb.png)
 ![分析_20221116](https://user-images.githubusercontent.com/76472326/207598646-ccc8e359-56e6-4206-bd2e-54b8a4c4eb4e.png)
 ![分析_20221116_python端](https://user-images.githubusercontent.com/76472326/207598824-5baa4cf1-89bd-40f7-9b26-78b0a34591d5.png)
