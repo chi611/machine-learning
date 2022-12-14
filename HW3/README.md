@@ -11,7 +11,10 @@
 * [需求-介面](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E4%BB%8B%E9%9D%A2)
 * [需求-限制](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E9%99%90%E5%88%B6)
 ## 分析
-
+* [分析(2022/11/09)](https://github.com/chi611/machine-learning/tree/main/HW3/%E5%88%86%E6%9E%90#%E5%88%86%E6%9E%9020221109)
+* [分析(2022/11/16)](https://github.com/chi611/machine-learning/tree/main/HW3/%E5%88%86%E6%9E%90#%E5%88%86%E6%9E%9020221116)
+* [分析(2022/11/30)](https://github.com/chi611/machine-learning/tree/main/HW3/%E5%88%86%E6%9E%90#%E5%88%86%E6%9E%9020221130)
+* [分析(2022/12/07)](https://github.com/chi611/machine-learning/tree/main/HW3/%E5%88%86%E6%9E%90#%E5%88%86%E6%9E%9020221207)
 ## 設計
 
 ## MSC
