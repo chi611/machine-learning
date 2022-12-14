@@ -5,6 +5,7 @@
 組員:曾梓維
 
 ## 需求
+* [需求-驗收](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E9%A9%97%E6%94%B6)
 
 ## 分析
 
