@@ -16,6 +16,9 @@
 * [分析(2022/11/30)](https://github.com/chi611/machine-learning/tree/main/HW3/%E5%88%86%E6%9E%90#%E5%88%86%E6%9E%9020221130)
 * [分析(2022/12/07)](https://github.com/chi611/machine-learning/tree/main/HW3/%E5%88%86%E6%9E%90#%E5%88%86%E6%9E%9020221207)
 ## 設計
+* [設計(2022/11/16)](https://github.com/chi611/machine-learning/blob/main/HW3/%E8%A8%AD%E8%A8%88/README.md#%E8%A8%AD%E8%A8%8820221116)
+* [設計(2022/11/23)](https://github.com/chi611/machine-learning/blob/main/HW3/%E8%A8%AD%E8%A8%88/README.md#%E8%A8%AD%E8%A8%8820221123)
+* [設計(2022/11/30)](https://github.com/chi611/machine-learning/blob/main/HW3/%E8%A8%AD%E8%A8%88/README.md#%E8%A8%AD%E8%A8%8820221123)
 
 ## MSC
 
