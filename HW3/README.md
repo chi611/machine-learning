@@ -6,7 +6,10 @@
 
 ## 需求
 * [需求-驗收](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E9%A9%97%E6%94%B6)
-
+* [需求-功能](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E5%8A%9F%E8%83%BD)
+* [需求-效能](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E6%95%88%E8%83%BD)
+* [需求-介面](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E4%BB%8B%E9%9D%A2)
+* [需求-限制](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E9%99%90%E5%88%B6)
 ## 分析
 
 ## 設計
