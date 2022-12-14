@@ -26,7 +26,8 @@
 * [MSC(2022/11/30)](https://github.com/chi611/machine-learning/blob/main/HW3/MSC/README.md#msc20221130)
 
 ## API
-* [API](https://github.com/chi611/machine-learning/blob/main/HW3/API/README.md#api)
+* [API](https://github.com/chi611/machine-learning/tree/main/HW3/API#api)
+
 ## 問題紀錄
 * [2022/11/03](https://github.com/chi611/machine-learning/tree/main/HW3/%E5%95%8F%E9%A1%8C%E7%B4%80%E9%8C%84#20221103)
 * [2022/11/10](https://github.com/chi611/machine-learning/tree/main/HW3/%E5%95%8F%E9%A1%8C%E7%B4%80%E9%8C%84#20221110)
