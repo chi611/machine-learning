@@ -1,6 +1,6 @@
 ![封面2](https://user-images.githubusercontent.com/76472326/200495398-e427dfd5-3673-44e2-b9b0-f068a28b17f1.PNG)
 # SoccerGame
-
+<p align="center">HelloWorld</p>
 組長:陳陽棋  
 組員:曾梓維
 # 專案架構
