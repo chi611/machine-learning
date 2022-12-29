@@ -7,11 +7,11 @@
 ## 分析
 ![分析_20221207 drawio](https://user-images.githubusercontent.com/76472326/209062628-a0260247-d838-4a50-82ab-5cf4cbbb65d5.png)
 ## 設計  
-![設計 drawio_20221130](https://user-images.githubusercontent.com/76472326/209062693-24b62f30-a14c-49af-98f6-da07d88a2fd1.png)
+![設計 drawio_20221228](https://user-images.githubusercontent.com/76472326/209900832-3441ffff-0e38-4735-8bbc-f16e0a3fa0d9.png)
 ## MSC  
 ![MSC_20221130 drawio](https://user-images.githubusercontent.com/76472326/209062716-bfcd69df-8a40-4dfb-a951-0dc3084cc4d2.png)
+## 需求![Uploading 設計.drawio_20221228.png…]()
 
-## 需求
 * [需求-驗收](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E9%A9%97%E6%94%B6)
 * [需求-功能](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E5%8A%9F%E8%83%BD)
 * [需求-效能](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E6%95%88%E8%83%BD)
@@ -26,6 +26,7 @@
 * [設計(2022/11/16)](https://github.com/chi611/machine-learning/blob/main/HW3/%E8%A8%AD%E8%A8%88/README.md#%E8%A8%AD%E8%A8%8820221116)
 * [設計(2022/11/23)](https://github.com/chi611/machine-learning/blob/main/HW3/%E8%A8%AD%E8%A8%88/README.md#%E8%A8%AD%E8%A8%8820221123)
 * [設計(2022/11/30)](https://github.com/chi611/machine-learning/blob/main/HW3/%E8%A8%AD%E8%A8%88/README.md#%E8%A8%AD%E8%A8%8820221123)
+* [設計(2022/12/28)](https://github.com/chi611/machine-learning/blob/main/HW3/%E8%A8%AD%E8%A8%88/README.md#%E8%A8%AD%E8%A8%8820221228)
 
 ## MSC
 * [MSC(2022/11/16)](https://github.com/chi611/machine-learning/blob/main/HW3/MSC/README.md#msc20221116)
