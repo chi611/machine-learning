@@ -10,8 +10,8 @@
 ![設計 drawio_20221228](https://user-images.githubusercontent.com/76472326/209900832-3441ffff-0e38-4735-8bbc-f16e0a3fa0d9.png)
 ## MSC  
 ![MSC_20221130 drawio](https://user-images.githubusercontent.com/76472326/209062716-bfcd69df-8a40-4dfb-a951-0dc3084cc4d2.png)
-## 需求![Uploading 設計.drawio_20221228.png…]()
 
+## 需求
 * [需求-驗收](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E9%A9%97%E6%94%B6)
 * [需求-功能](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E5%8A%9F%E8%83%BD)
 * [需求-效能](https://github.com/chi611/machine-learning/tree/main/HW3/%E9%9C%80%E6%B1%82#%E9%9C%80%E6%B1%82-%E6%95%88%E8%83%BD)
